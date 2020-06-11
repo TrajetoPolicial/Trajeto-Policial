@@ -1,4 +1,6 @@
-<div align=center><a href='https://contador.s12.com.br'><img src='https://contador.s12.com.br/img-dZ3cz9dZb9YZZ8D2-6.gif' border='0' alt='contador grátis'></a><script type='text/javascript' src='https://contador.s12.com.br/ad.js?id=dZ3cz9dZb9YZZ8D2'></script></div>
+<div id="sfcba6z7f4bm1gbk5qz9y7c382m75lwydhg"></div>
+<script type="text/javascript" src="https://counter1.stat.ovh/private/counter.js?c=ba6z7f4bm1gbk5qz9y7c382m75lwydhg&down=async" async></script>
+<br><a href="https://www.webcontadores.com">contador de visitas</a><noscript><a href="https://www.webcontadores.com" title="contador de visitas"><img src="https://counter1.stat.ovh/private/webcontadores.php?c=ba6z7f4bm1gbk5qz9y7c382m75lwydhg" border="0" title="contador de visitas" alt="contador de visitas"></a></noscript>
 
 
 ## Tabela TAF Resumida
