@@ -1,4 +1,4 @@
-<div id="sfcba6z7f4bm1gbk5qz9y7c382m75lwydhg"></div><script type="text/javascript" src="https://counter1.stat.ovh/private/counter.js?c=ba6z7f4bm1gbk5qz9y7c382m75lwydhg&down=async" async></script><br><a href="https://www.webcontadores.com">contador de visitas</a><noscript> <img src="https://counter1.stat.ovh/private/webcontadores.php?c=ba6z7f4bm1gbk5qz9y7c382m75lwydhg" border="0" title="contador de visitas" alt="contador de visitas"></a></noscript>
+<div id="sfcba6z7f4bm1gbk5qz9y7c382m75lwydhg"></div><script type="text/javascript" src="https://counter1.stat.ovh/private/counter.js?c=ba6z7f4bm1gbk5qz9y7c382m75lwydhg&down=async" async></script><br><a href="https://www.webcontadores.com">contador de visitas</a><noscript><a href="https://www.webcontadores.com" title="a"><img src="https://counter1.stat.ovh/private/webcontadores.php?c=ba6z7f4bm1gbk5qz9y7c382m75lwydhg" border="0" title="a" alt="a"></a></noscript>
 
 
 ## Tabela TAF Resumida
