@@ -1,6 +1,6 @@
 <div id="sfch98m2t7qdan7yzrmz33y37p3x792m22m"></div>
-<script type="text/javascript" src="https://counter1.stat.ovh/private/counter.js?c=h98m2t7qdan7yzrmz33y37p3x792m22m&down=async" async></script>
-<br><a href="https://www.webcontadores.com">contador de visita</a><noscript><a href="https://www.webcontadores.com" title="contador de visita"><img src="https://counter1.stat.ovh/private/webcontadores.php?c=h98m2t7qdan7yzrmz33y37p3x792m22m" border="0" title="contador de visita" alt="contador de visita"></a></noscript>
+
+<br><a href="https://www.webcontadores.com"> </a><noscript><a href="https://www.webcontadores.com" title=" "><img src="https://counter1.stat.ovh/private/webcontadores.php?c=h98m2t7qdan7yzrmz33y37p3x792m22m" border="0" title=" " alt=" "></a></noscript>
 
 ## Tabela TAF Resumida
 Valores para obter **PONTUAÇÃO MÁXIMA** em cada teste. (Baseado no último edital do referido concurso.) <br>
