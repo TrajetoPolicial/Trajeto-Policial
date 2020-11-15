@@ -9,5 +9,5 @@ Feminino: || [Imagem .png](https://raw.githubusercontent.com/TrajetoPolicial/tra
 
 ## Edital Verticalizado (CFP/PMPA/2020 e PCPA EDITAL Nº 01/2020)
 
-[PMPA 2020](https://raw.githubusercontent.com/TrajetoPolicial/trajetopolicial/master/Edital_vert_PMPA_CFP.pdf) || [PCPA 2020](https://raw.githubusercontent.com/TrajetoPolicial/trajetopolicial/master/Edital_vert_PCPA.pdf)
+[Download PMPA 2020](https://raw.githubusercontent.com/TrajetoPolicial/trajetopolicial/master/Edital_vert_PMPA_CFP.pdf) || [Download PCPA 2020](https://raw.githubusercontent.com/TrajetoPolicial/trajetopolicial/master/Edital_vert_PCPA.pdf)
  
