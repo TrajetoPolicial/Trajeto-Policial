@@ -9,3 +9,7 @@ Feminino: || [Imagem .png](https://raw.githubusercontent.com/TrajetoPolicial/tra
 
 [Download PMPA 2020](https://raw.githubusercontent.com/TrajetoPolicial/trajetopolicial/master/Edital_vert_PMPA_CFP.pdf) || [Download PCPA 2020](https://raw.githubusercontent.com/TrajetoPolicial/trajetopolicial/master/Edital_vert_PCPA.pdf)
  
+## Edital Verticalizado (PF e PRF - Baseado do último edital)
+
+[Download PF](https://raw.githubusercontent.com/TrajetoPolicial/trajetopolicial/master/Edital_vert_PF.pdf) || [Download PRF](https://raw.githubusercontent.com/TrajetoPolicial/trajetopolicial/master/Edital_vert_PRF.pdf)
+ 
